@@ -1,6 +1,6 @@
 Este projeto é experimental apenas para testar ferramentas de DevOps, CI's e CD's.
 
-//sqp_d83e93f013c74aee2a10d779a716f7bc795c315f
+//sqp_948f766f5a70f2ee59f8dd6549431637000c9377
 
 - Uma aplicação básica em go.
 - Workflows de CI's.
